@@ -2,13 +2,13 @@
 
 Este es el repositorio del grupo x, cuyos integrantes son:
 
-- Integrante 1 - ROL:
-- Integrante 2 - ROL:
-- Integrante 3 - ROL:
-- Integrante 4 - ROL:
-    - **Tutor**: Tutor
+- José Flores Fuentes - ROL:202430025-3
+- Alonso Sánchez Valencia - ROL:
+- Benjamín Horta - ROL:
+- Gabriel Bonfort - ROL:
+    - Martina Tejo: Tutor
 
-# [NUEVO] INF236-2025-2-Proyecto Base
+# [NUEVO] INF236-2026-1-Proyecto Base
 
 ## Aspectos técnicos relevantes
 
