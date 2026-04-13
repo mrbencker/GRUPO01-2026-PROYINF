@@ -4,7 +4,7 @@ Este es el repositorio del grupo x, cuyos integrantes son:
 
 - José Flores Fuentes - ROL:202430025-3
 - Alonso Sánchez Valencia - ROL:
-- Benjamín Horta - ROL:
+- Benjamín Horta - ROL: 202430008-3
 - Gabriel Bonfort - ROL:202430030-k
     - Martina Tejo: Tutor
 
