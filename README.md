@@ -12,7 +12,7 @@ Este es el repositorio del grupo x, cuyos integrantes son:
 
 #WIKI
 
-La wiki la puede encontrar en https://github.com/mrbencker/GRUPO01-2026-PROYINF.wiki.git
+La wiki la puede encontrar en [https://github.com/mrbencker/GRUPO01-2026-PROYINF.wiki.git](https://github.com/mrbencker/GRUPO01-2026-PROYINF/wiki)
 ## Aspectos técnicos relevantes
 
 _Todo aspecto relevante cuando para poder usar el proyecto o consideraciones del proyecto base a ser entregado_
