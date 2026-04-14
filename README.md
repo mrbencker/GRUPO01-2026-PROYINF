@@ -10,7 +10,7 @@ Este es el repositorio del grupo x, cuyos integrantes son:
 
 # [NUEVO] INF236-2026-1-Proyecto Base
 
-#WIKI
+# WIKI
 
 La wiki la puede encontrar en [https://github.com/mrbencker/GRUPO01-2026-PROYINF.wiki.git](https://github.com/mrbencker/GRUPO01-2026-PROYINF/wiki)
 ## Aspectos técnicos relevantes
